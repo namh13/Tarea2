@@ -31,15 +31,29 @@
 	<stack>
 	<list>
 
-1406091930 source:c:\users\usuario1\desktop\estructuratarea2-master\estructuratarea2-master\evaluador.cpp
+1406091930 source:c:\users\gustavo suarez\desktop\estructuratarea2-master\evaluador.cpp
 	"Evaluador.h"
 
-1406091930 c:\users\usuario1\desktop\estructuratarea2-master\estructuratarea2-master\evaluador.h
+1406091930 c:\users\gustavo suarez\desktop\estructuratarea2-master\evaluador.h
 	<iostream>
 	<stack>
 	<list>
 
-1406777193 source:c:\users\usuario1\desktop\estructuratarea2-master\estructuratarea2-master\main.cpp
+1406738830 source:c:\users\gustavo suarez\desktop\estructuratarea2-master\main.cpp
+	"Evaluador.h"
+	<iostream>
+	<stack>
+	<list>
+
+1406779292 source:c:\users\hp\desktop\estructurabd\tarea-master\estructuratarea2-master\evaluador.cpp
+	"Evaluador.h"
+
+1406779292 c:\users\hp\desktop\estructurabd\tarea-master\estructuratarea2-master\evaluador.h
+	<iostream>
+	<stack>
+	<list>
+
+1408554990 source:c:\users\hp\desktop\estructurabd\tarea-master\estructuratarea2-master\main.cpp
 	"Evaluador.h"
 	<iostream>
 	<stack>
